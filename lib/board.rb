@@ -1,1 +1,1 @@
-board = Array.new(8)
+board = Array.new(9)
